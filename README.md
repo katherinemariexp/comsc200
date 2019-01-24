@@ -27,7 +27,7 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 	 
 ### PART-3 Containers  
 	07 311	304-325 MODULE 07 Templates    
-				Ch 16 Exceptions & Templates 989   
+				    Ch 16 Exceptions & Templates 989   
 	    			NTU C++ Templates (https://goo.gl/kzNbLT)  
 	08 318	311-401 MODULE 08 STL  
 	    			Ch 17 Standard Template library 1029   
