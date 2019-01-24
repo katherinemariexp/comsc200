@@ -27,7 +27,7 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 	 
 ### PART-3 Containers  
 	07 311	304-325 MODULE 07 Templates    
-				    Ch 16 Exceptions & Templates 989   
+	    			Ch 16 Exceptions & Templates 989   
 	    			NTU C++ Templates (https://goo.gl/kzNbLT)  
 	08 318	311-401 MODULE 08 STL  
 	    			Ch 17 Standard Template library 1029   
@@ -49,3 +49,19 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 	    			Mark Weiss Chapter 5 193
 	16 520	513-524 MODULE 16 TERM Review  
 	   524			Final exam
+
+
+### Textbook Gaddis-SOWC++ 8e --> 9e
+	Adding --> 9e
+	14.10 Rvalue References and Move Semantics 886 
+	
+	Replace 16.5 Introduction to the Standard Template Library (STL)  
+	--> 9e
+	CHAPTER 17 The Standard Template Library 1029   
+    	17.1 Introduction to the Standard Template Library 1029  
+    	17.2 STL Container and Iterator Fundamentals 1029  
+		17.3 The vector Class 1040  
+		17.4 The map, multimap, and unordered_map Classes 1054  
+		17.5 The set, multi set, and unordered_set Classes 1079  
+		17.6 Algorithms 1086  
+		17.7 Introduction to Function Objects and Lambda Expressions 1107  
