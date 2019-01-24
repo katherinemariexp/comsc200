@@ -17,11 +17,11 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 	    			Project Description
 	 
 ### PART-2 OOD as “A PIE”   
-	04 218	211-304 MODULE 04 A-PIE  
+	04 218	211-304 MODULE 04 Basics and Inheritance  
+	    			NTU C++ Basics (https://goo.gl/CFPxrd)   
+	    			NTU C++ Inheritance (https://goo.gl/EFZ1Qw)  
+	05 225	218-311 MODULE 05 A-PIE & Derived Classes  
 	    			Ch 15 A-PIE and Virtual Functions 907  
-	05 225	218-311 MODULE 05 Base & Derived Classes  
-	    			NTU C++ Basics (https://goo.gl/CFPxrd)  
-	    			NTU C++ Inheritance (https://goo.gl/EFZ1Qw)   
 	06 304	225-318 MODULE 06 Derived Classes   
 	    			Project description
 	 
