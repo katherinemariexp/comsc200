@@ -53,9 +53,10 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 
 ### Textbook Gaddis-SOWC++ 8e --> 9e
 	Adding --> 9e
-	14.10 Rvalue References and Move Semantics 886 
+		14.10 Rvalue References and Move Semantics 886 
 	
-	Replace 16.5 Introduction to the Standard Template Library (STL)  
+	Replacing 8e 
+		16.5 Introduction to the Standard Template Library (STL)  
 	--> 9e
 	CHAPTER 17 The Standard Template Library 1029   
     	17.1 Introduction to the Standard Template Library 1029  
