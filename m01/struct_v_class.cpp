@@ -1,7 +1,4 @@
-// This demo program illustrates that struct and class are essentially identical with 
-// one major distinction, the default member access. The struct is default to public 
-// and class is default to private.
-
+// standard struct usage
 #include <iostream>
 using namespace std;
 
@@ -11,7 +8,6 @@ void show(Tripple t) {
     cout << "show(): [" << t.x << ", " << t.y << ", " << t.z << "]\n"; }
     
 void increase(Tripple &t) { t.x++; t.y++; t.z++; }
-
 
 int main() {
     Tripple t;
