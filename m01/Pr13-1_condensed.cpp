@@ -28,7 +28,7 @@ int main() {
 
 	// Get the rectangle's width and length from the user.
 	cout << "This program will calculate the area of a\n"
-	     << "rectangle. What is the width? ";
+		 << "rectangle. What is the width? ";
 	cin >> rectWidth;
 	cout << "What is the length? ";
 	cin >> rectLength;
@@ -39,7 +39,7 @@ int main() {
 
 	// Display the rectangle's data.
 	cout << "Here is the rectangle's data:"
-	     << "\nWidth: " << box.getWidth()
-	     << "\nLength: " << box.getLength()
-	     << "\nArea: " << box.getArea() << endl;
+		 << "\nWidth: " << box.getWidth()
+		 << "\nLength: " << box.getLength()
+		 << "\nArea: " << box.getArea() << endl;
 }

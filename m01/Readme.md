@@ -1,3 +1,4 @@
+# Introduction to Classes
 ## m01-01 Struct v Class
 Journey of C --> C++ <br>
 from struct to class
@@ -111,17 +112,9 @@ All private member methods may not be accessed from outside.<br>
 - Initializer List <br>
 [This C++ Reference](http://www.cplusplus.com/reference/initializer_list/initializer_list/) is used.<br>
 
-## m01-14
+## E01-13
 ##### Ch 13.13 OOP Practice: Case Study
-
-## m01-15
 ##### Ch 13.14 OOP Pactice: Simulating Dice
-
-## m01-16
 ##### Ch 13.15 OOP Practice: Abstract Array Type
-
-## m01-17
 ##### Ch 13.16 Unified Modeling Language (UML)
-
-## m01-18
 ##### Ch 13.17 Define Class and its Responsibility
