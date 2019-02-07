@@ -34,13 +34,13 @@ public:
 		{ return inches; }
 
    // Overloaded operator functions
-	FeetInches operator + (const FeetInches &); // Overloaded +
-	FeetInches operator - (const FeetInches &); // Overloaded -
-	FeetInches operator ++ ();					// Prefix ++
-	FeetInches operator ++ (int);				// Postfix ++
-	bool operator > (const FeetInches &);		// Overloaded >
-	bool operator < (const FeetInches &);		// Overloaded <
-	bool operator == (const FeetInches &);		// Overloaded ==
+	FeetInches operator + (const FeetInches &);	// Overloaded +
+	FeetInches operator - (const FeetInches &);	// Overloaded -
+	FeetInches operator ++ ();							// Prefix ++
+	FeetInches operator ++ (int);						// Postfix ++
+	bool operator > (const FeetInches &);			// Overloaded >
+	bool operator < (const FeetInches &);			// Overloaded <
+	bool operator == (const FeetInches &);			// Overloaded ==
 };
 
 #endif
